@@ -1,3 +1,5 @@
+Ruby on Rails sample application to organize my knowledge before starting something more complex.
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
